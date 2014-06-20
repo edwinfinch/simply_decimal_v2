@@ -1,0 +1,25 @@
+{
+    "companyName": "Edwin Finch",
+    "longName": "Simply Decimal",
+    "versionLabel": "2.0",
+    "uuid": "00167654-a67a-4325-8bcb-797f5580f9d0",
+    "appKeys": {},
+    "shortName": "Simply Decimal",
+    "capabilities": [
+        ""
+    ],
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon_simplicity.png",
+                "name": "MENU_ICON",
+                "type": "png",
+                "menuIcon": true
+            }
+        ]
+    },
+    "versionCode": 1
+}
